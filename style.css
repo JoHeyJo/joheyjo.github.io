@@ -135,7 +135,7 @@ li {
 }
 
 #footer-content .hidden-contact-text {
-  display: hidden;
+  color: aqua;
 }
 
 #footer-content #contact-text {
