@@ -1,0 +1,30 @@
+
+.Banner-container {
+  border: 5px solid black;
+  /* box-sizing: border-box;
+  display: block;
+  float: right;
+  width: 90%;
+  height: auto;
+  text-align: center;
+  font-size: 22em;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -15px;
+  font-weight: 600; */
+}
+
+hidden-text {
+  color: rgba(0, 0, 0, 0.0);
+  font-size: 5rem;
+  letter-spacing: normal;
+  transition: 2s;
+}
+
+Banner-container:hover #hidden-text {
+  font-size: 5rem;
+  display: inline;
+  color: rgba(0, 0, 0);
+  transition: 2.5s;
+}

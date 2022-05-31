@@ -1,0 +1,18 @@
+#Bio-about-me {
+  border: 5px solid black;
+}
+#about-me {
+  /* box-sizing: border-box;
+  display: block;
+  float: right;
+  padding-top: 3em;
+  padding: 3em;
+  width: 90%;
+  height: auto;
+  font-size: 5em; */
+}
+
+li {
+  list-style: none;
+  font-size: 2rem;
+}

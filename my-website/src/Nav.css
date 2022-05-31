@@ -1,0 +1,26 @@
+.Nav-navbar {
+  border: 5px solid black;
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  box-sizing: border-box;
+  float: left;
+  width: 10%;
+  height: 70%; */
+/* 
+  display: flex;
+  width: 100%;
+  align-items: stretch; */
+
+  width: 10%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  z-index: 999;
+  background: #7386D5;
+  color: #fff;
+  transition: all 0.3s;
+}
