@@ -5,7 +5,7 @@ function Bio() {
   return (
     <section id="Bio-about-me">
 
-      <ul id="about-me-links">
+      <ul id="about-me-links container">
         <li>Hi! I'm Joannes.</li>
         <li>Welcome to my page!</li>
         <li>11 year veteran of the bar industry</li>

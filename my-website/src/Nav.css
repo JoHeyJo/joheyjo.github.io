@@ -23,4 +23,15 @@
   background: #7386D5;
   color: #fff;
   transition: all 0.3s;
+  
+}
+
+#Nav-sidebar {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50vh;
+  /* font-size: calc(100% + 1vw + 1vh); */
+  /* justify-content: center;
+  align-items: center; */
+  /* font-size: 1.5rem; */
 }
