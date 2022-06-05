@@ -10,8 +10,8 @@ import "./Nav.css"
 
 function Nav(){
  return (
- <Navbar className="Nav-navbar" bg="light" expand="lg">
-    <Container id="Nav-sidebar">
+    <Navbar className="Nav-navbar  d-none d-md-block" bg="light" expand="lg">
+     <Container id="Nav-sidebar">
       <BrowserRouter>
         <HashLink to="/">About</HashLink>
         <a href="https://github.com/JoHeyJo/joheyjo.github.io/blob/main/resume.pdf">Resume</a>

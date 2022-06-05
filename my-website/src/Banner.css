@@ -1,18 +1,11 @@
 
 .Banner-container {
   border: 5px solid black;
-  /* box-sizing: border-box;
-  display: block;
-  float: right;
-  width: 90%;
-  height: auto;
   text-align: center;
-  font-size: 22em;
-  font-family: 'Roboto', sans-serif;
+  font-size: 15rem;
   font-family: 'Roboto Condensed', sans-serif;
   text-transform: uppercase;
   letter-spacing: -15px;
-  font-weight: 600; */
 }
 
 hidden-text {

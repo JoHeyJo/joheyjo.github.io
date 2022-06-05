@@ -1,11 +1,12 @@
 import React from "react";
 import './Bio.css'
+import './fontStyle.css'
 
 function Bio() {
   return (
     <section id="Bio-about-me">
 
-      <ul id="about-me-links container">
+      <ul className="fsm" id="about-me-links container">
         <li>Hi! I'm Joannes.</li>
         <li>Welcome to my page!</li>
         <li>11 year veteran of the bar industry</li>

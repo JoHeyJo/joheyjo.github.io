@@ -1,40 +1,10 @@
 #Bio-about-me {
   border: 5px solid black;
-}
-#about-me {
-  /* box-sizing: border-box;
-  display: block;
-  float: right;
-  padding-top: 3em;
   padding: 3em;
-  width: 90%;
-  height: auto;
-  font-size: 5em; */
+  font-size: .5em;
 }
 
 li {
   list-style: none;
   font-size: calc(100% + 1vw + 1vh);
-}
-
-@media (min-width: 320px) {
-  li {
-    font-size: .75rem;
-  }
-}
-@media (min-width: 544px) {
-  li {
-    font-size: 1.25rem;
-  }
-}
-
-@media (min-width:1024px) {
-  li {
-    font-size: 2rem;
-  }
-}
-@media (min-width:1440px) {
-  li {
-    font-size: 2.5rem;
-  }
 }
