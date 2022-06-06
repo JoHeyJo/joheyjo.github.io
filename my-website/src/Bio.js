@@ -1,6 +1,6 @@
 import React from "react";
 import './Bio.css'
-import './fontStyle.css'
+import './fontSize.css'
 
 function Bio() {
   return (

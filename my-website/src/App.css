@@ -39,5 +39,10 @@
 }
 
 footer {
-  padding: inherit;
+  /* padding: inherit; */
+}
+
+.main-content {
+  /* width: 80%; */
+  /* right: 0; */
 }

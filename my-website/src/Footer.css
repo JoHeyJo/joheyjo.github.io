@@ -6,18 +6,19 @@
 
     
 }
-
+/* TODO:fix alignment to  */
 #footer-content {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: flex-end;
     height: 50px;
     letter-spacing: 5px;
+
     /* position: sticky; */
     /*width: 100%;  <<<  this maintains bar in old code base */
     
     /* border-style: none; */
-    /* letter-spacing: 1.25em; */
+    letter-spacing: 1.25em;
     /* margin-top: auto; */
     /* width: 100%; */
     /* background-color: aqua; */
